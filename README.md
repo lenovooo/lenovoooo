@@ -23,4 +23,4 @@
 "# lenovoooo" 
 "# lenovoooo" 
 "# lenovoooo" 
-"# ccpractical"
+"# ccpracticals"
